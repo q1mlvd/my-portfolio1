@@ -41,7 +41,7 @@ export function Footer() {
           </div>
 
           <p className="text-sm text-gray-500 dark:text-gray-500">
-            © {new Date().getFullYear()} Mikhailo Kravchuk. {t("rights")}
+            © {new Date().getFullYear()} Mikhailo Kravchu1k. {t("rights")}
           </p>
         </div>
       </div>
