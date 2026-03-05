@@ -1,0 +1,81 @@
+{
+  "nav": {
+    "about": "About",
+    "projects": "Projects",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "name": "Mikhailo Kravchuk",
+    "tagline": "Engineering Scalable Web Ecosystems & Automation",
+    "description": "I build high-performance web applications, architect Telegram & Discord bot systems, and design robust database solutions that scale.",
+    "cta_primary": "View My Work",
+    "cta_secondary": "Get In Touch",
+    "badge": "Available for freelance"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Full-stack developer with a passion for clean code and elegant solutions",
+    "bio": "I'm a full-stack developer specializing in building scalable web applications, intelligent bot ecosystems, and high-performance database architectures. My work sits at the intersection of design and engineering — delivering products that are both visually compelling and technically sound.",
+    "services": {
+      "web": {
+        "title": "Web Development",
+        "description": "Crafting responsive, SEO-optimized web applications with a focus on clean UI and peak performance. From landing pages to full-stack platforms."
+      },
+      "bots": {
+        "title": "Bot Ecosystems",
+        "description": "Architecting complex Telegram & Discord bots: from automated payment gateways and community management to deep API integrations and custom admin panels."
+      },
+      "db": {
+        "title": "Database Architecture",
+        "description": "Designing scalable SQL/NoSQL schemas focused on data integrity, high availability, and query optimization for demanding production workloads."
+      }
+    },
+    "stats": {
+      "projects": "Projects Delivered",
+      "clients": "Happy Clients",
+      "experience": "Years Experience",
+      "bots": "Bots Deployed"
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "A selection of work I'm proud of",
+    "view_live": "Live Demo",
+    "view_code": "Source Code",
+    "status_live": "Live",
+    "status_concept": "Concept / R&D",
+    "status_wip": "In Progress",
+    "all": "All",
+    "web": "Web",
+    "bots": "Bots",
+    "data": "Data"
+  },
+  "blog": {
+    "title": "Blog & Resources",
+    "subtitle": "Guides, checklists, and downloadable resources",
+    "read_more": "Read More",
+    "download": "Download",
+    "lead_magnets": "Lead Magnets",
+    "latest_posts": "Latest Posts"
+  },
+  "contact": {
+    "title": "Let's Work Together",
+    "subtitle": "Have a project in mind? I'd love to hear about it.",
+    "name_label": "Name",
+    "name_placeholder": "Your name",
+    "email_label": "Email",
+    "email_placeholder": "your@email.com",
+    "message_label": "Message",
+    "message_placeholder": "Tell me about your project...",
+    "send_button": "Send Message",
+    "sending": "Sending...",
+    "success": "Message sent! I'll get back to you soon.",
+    "or": "Or reach me directly"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "built_with": "Built with Next.js"
+  }
+}
